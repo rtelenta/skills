@@ -21,14 +21,11 @@ Create a **GitHub pull request** for the current branch. Drafts the title and bo
 ## 🚀 Installation
 
 ```bash
-npx skills add rtelenta/skills
+npx skills add https://github.com/rtelenta/skills --skill commit
 ```
 
-To install a specific skill:
-
 ```bash
-npx skills add rtelenta/skills/commit
-npx skills add rtelenta/skills/pr
+npx skills add https://github.com/rtelenta/skills --skill pr
 ```
 
 ---

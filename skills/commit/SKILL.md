@@ -7,7 +7,7 @@ metadata:
   version: "1.0"
 ---
 
-Stage all changes and create a conventional commit. Show the message to the user for approval before committing. Never include Claude Code attribution.
+Stage all changes and create a conventional commit. Show the message to the user for approval before committing. Never include AI attribution.
 
 ---
 
